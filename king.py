@@ -687,7 +687,7 @@ def rndm(ids,passlist):
                                         'content-type': 'multipart/form-data; boundary=----WebKitFormBoundaryxIxc3c1wf1XPq5yL',
                                         'cookie': 'sb=nKBSYqRECxyL7RuJr8vc0xu1; datr=nKBSYvrx9hfYlie57qaPOHCi; locale=en_US; dpr=0.8333333730697632; m_pixel_ratio=0.625; fr=0hLscfSFT8A5vSA7Q.AWXNjw_ca4BAFcDspgf6rTOG_FM.Bjtru5.df.AAA.0.0.BjuR9X.AWWg0DYmugE; wd=918x979',
                                         'origin': 'https://mobile.facebook.com',
-                                        'referer': 'https://mobile.facebook.com/login/?next&ref=dbl&fl&login_from_aymh=1&refid=8',
+                                        
                                         'sec-ch-ua': '"Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"',
                                         'sec-ch-ua-mobile': '?0',
                                         'sec-ch-ua-platform': '"Windows"',
